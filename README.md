@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <hr>
 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Novaneel2002&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Novaneel2002&count_private=true&show_icons=true&hide=contribs&theme=github_dark)
 
 
 <hr>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaneel2002&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaneel2002&theme=github_dark)
 
 
