@@ -42,18 +42,19 @@ Here are some ideas to get you started:
 
 <h4>📫 How to reach me:</h3>
 
-<a href="mailto:novaneel2802@gmail.com">![novaneel2802@gmail.com](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)</a> <a href="https://www.instagram.com/darkhorse_2802/">![darkhorse_2802](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)</a> <a href="https://twitter.com/MandalNovaneel">![@MandalNovaneel](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter)</a>
-
-<hr>
-
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Novaneel2002&count_private=true&show_icons=true&hide=contribs)
+<a href="mailto:novaneel2802@gmail.com">![novaneel2802@gmail.com](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)</a> <a href="https://www.instagram.com/darkhorse_2802/">![darkhorse_2802](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)</a> <a href="https://twitter.com/MandalNovaneel">![@MandalNovaneel](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter)</a> <a href="https://www.linkedin.com/in/novaneel-mandal-a11152234/">![Novaneel Mandal](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)</a> <a href="https://www.codechef.com/users/novaneel">![novaneel](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef)</a> 
 
 
 <hr>
 
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Novaneel2002&count_private=true&show_icons=true&hide=contribs&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaneel2002&layout=compact)
+
+<hr>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novaneel2002&theme=github_dark)
 
 
