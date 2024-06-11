@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 - 📖Reading
 - 🎮Gaming
 - 🏸Badminton
-- 🌱Learning New Things 
+- 🌱Learning New Things
+  
 <hr>
+
 <h4>📚Skills💻</h3>
 
 - Web Development
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 - C++ 
 
 <hr>
-<hr>
+
 <h4>📚Currently Learning💻</h3>
 
 - React.js
